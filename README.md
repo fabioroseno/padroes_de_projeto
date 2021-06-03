@@ -1,4 +1,4 @@
-design_patterns
+Padrões de Projetos
 ===============
 
 Implementações de Padrões de Projetos
